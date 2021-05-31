@@ -11,6 +11,7 @@ class Clipboard extends Emitter {
      * @param {String|HTMLElement|HTMLCollection|NodeList} trigger
      * @param {Object} options
      */
+    
     constructor(trigger, options) {
         super();
 
